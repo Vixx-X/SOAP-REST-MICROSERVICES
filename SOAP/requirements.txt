@@ -1,0 +1,15 @@
+# django
+Django==4.0.1
+
+# soap
+git+https://github.com/Vixx-X/spyne.git
+lxml==4.9.1
+
+# envs
+python-environ==0.4.54
+
+# postgres
+psycopg2==2.8.6
+
+# cors
+django-cors-headers==3.11.0
