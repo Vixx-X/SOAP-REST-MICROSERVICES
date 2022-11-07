@@ -1,4 +1,4 @@
-# SOAP-REST-DJANGO
+# SOAP-REST-MICROSERVICES
 
 Example of MICROSERVICES using SOAP and REST app in django
 
