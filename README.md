@@ -2,27 +2,21 @@
 
 Example of MICROSERVICES using SOAP and REST app in django
 
+SOAP microservice consist in a simple array sorter and REST resolves the common knapsack problem.
+
 Installation tested on Ubuntu 20.04.1 LTS.
 
 ## Table of contents
 
 - [Install pre-installation dependencies](#install-pre-installation-dependencies)
 - [Create .env file](#create-env)
-- [Setup dev enviroment](#setup-dev-env)
-- [Create and activate virtual enviroment and install python dependencies](#setup-venv)
-- [Setup de Database](#setup-db)
 - [Start the server](#start-server)
-- [Testing](#test)
 - [References](#references)
-
-## Steps by Virtual env <a name="virtualenv"></a>
-
-This method is tested to work on linux, and is the most confortable for developing, because is faster in dev time, but need some pre working to start the enviroments
 
 ### Install pre-installation dependencies <a name="install-pre-installation-dependencies"></a>
 
 - Docker
-  Should come preinstalled with Ubuntu
+  [Install](https://docs.docker.com/engine/install/ubuntu/)
 
 ### Create .env file <a name="create-env"></a>
 
